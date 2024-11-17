@@ -1,0 +1,4 @@
+# Omogući Lazy Loading za slike
+<IfModule mod_headers.c>
+    Header set X-Lazy-Load "true"
+</IfModule>
