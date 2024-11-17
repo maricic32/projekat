@@ -532,10 +532,13 @@ margin: 15px opx;
         left: 47%;
     }
 }
-.pre-dna{
+.pre-dna {
+    display: flex;           
+    justify-content: flex-start; 
+    gap: 20px;                
+    padding-top: 10px;       
     background-color: #030B1D;
-    height: 50px;
-}
+  }
 
 
 @media screen and (max-width: 768px) {
