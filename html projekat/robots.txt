@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:/slike/
 
+sitemap:https://github.com/maricic32/projekat/blob/main/html%20projekat/sitemap.xml
