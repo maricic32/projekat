@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:/slike/
-
-sitemap:https://github.com/maricic32/projekat/blob/main/html%20projekat/sitemap.xml
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /pages/thankyou.html
