@@ -34,7 +34,7 @@ html,body{
     background-color: black;
 }
 .exit-slika{
-    background-image: url('../slike/exit11.jpg');
+    background-image: url('/slike/exit11.jpg');
     background-size: cover;
     height: 500px;
     display: flex;
