@@ -34,7 +34,7 @@ html,body{
     background-color: black;
 }
 .exit-slika{
-    background-image: url('../slike/exit11.jpg');
+    background-image: url('https://github.com/maricic32/projekat/blob/main/html%20projekat/slike/exit11.jpg?raw=true');
     background-size: cover;
     height: 500px;
     display: flex;
