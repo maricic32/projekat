@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/maricic32/projekat/blob/main/html%20projekat/sitemap.xml
+sitemap: https://github.com/maricic32/projekat/blob/main/html%20projekat/sitemap.xml
