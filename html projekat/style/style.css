@@ -3,20 +3,17 @@ html,body{
     padding:0;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
 .navbar{
     background-color: #132043;
     justify-content: space-between;
     display: flex;
     align-items: center;
-    padding: 10px 10px;
-   
+    padding: 10px 10px; 
 }
 .navbar .navbar-logo .logo{
     width: 180px;
     height: 80px;
 }
-
 .nav-meni .nav-item{
     display: inline;
     font-size: 17px;
@@ -41,7 +38,6 @@ html,body{
     align-items: center;
     justify-content: center;
 }
-
 .exit-slika .exit-pocetna{
     width: 400px;
     text-align: center;
@@ -55,16 +51,13 @@ html,body{
     border-radius: 20px;
     padding: 20px;
 }
-
-
 .pocetna-mid{
     display: flex;
 }
 .pocetna-mid .split-left{
     background-color: black;
     height: 1600px;
-    width: 60%;
-    
+    width: 60%;   
 }
 .pocetna-mid .split-right{
     background-color: black;
@@ -86,16 +79,13 @@ html,body{
     margin-left: 50px;
     margin-top: 50px;
 }
-
 .split-right p{
     color: white;
     margin: 50px 50px;
     text-align: justify;
 }
-
 .pocetna-mid  .image{
-    width: 70%;
-    
+    width: 70%;   
 }
 .pocetna-mid  .image img{
     max-width: 350px;
@@ -103,15 +93,13 @@ html,body{
     margin-right: 20px;
     color: white;
     border-radius: 10px;
-   
 }
 .pocetna-mid  .image2 img{
     max-width: 350px;
     float: right;
     margin-left: 20px;
     color: white;
-    border-radius: 10px;
-   
+    border-radius: 10px; 
 }
 
 .pocetna-mid .text-pocetna h2{
@@ -119,7 +107,6 @@ html,body{
     padding: 10px 10px;
     color: white;
     display: flex;
-
 }
 .pocetna-mid .text-pocetna p{
     font-size: 15px;
@@ -127,8 +114,6 @@ html,body{
     display: flex;
     padding-left: 5px;
 }
-
-
 .onama-slika{
     background-image: url("../slike/onamaslika.jpeg");
     background-size: cover;
@@ -154,8 +139,7 @@ html,body{
     line-height: 1.6;
     color: white;
     white-space: normal;
-    font-size: medium;
-   
+    font-size: medium; 
 }
 .about-us h1{
     color: azure;
@@ -180,10 +164,8 @@ html,body{
     height: 400px;
     background-size: cover;
     width:750px;
-    margin: auto;
-    
+    margin: auto;  
 }
-
 .ulaznice-slika{
     background-image: url("../slike/ulazniceexit.jpg");
     background-size: cover;
@@ -217,8 +199,7 @@ html,body{
 }
 .ulaznice-mid .ulaznice-festivala .ulaznice{
     margin-top: 20px;
-    display: flex;
-    
+    display: flex;  
  }
 .ulaznice p{
     background-color: darkred;
@@ -235,7 +216,6 @@ html,body{
 .ulaznice2{
     width: 300px;
 }
-
 .ulaznice-mid  .ulaznice2 p{
     vertical-align: baseline;
     font-weight: bold;
@@ -282,9 +262,7 @@ html,body{
   outline: none;
   color: black;
   background-color: azure;
-  
 }
-
 .gallery-top{
     background-image: url('../slike/galerijatop.jpg');
     background-size: cover;
@@ -297,7 +275,6 @@ html,body{
     background-color: black;
     height: 1500px;
 }
-
 #naslov-galerije{
     text-align: center;
     font-weight: bold;
@@ -305,7 +282,6 @@ html,body{
     margin: 0px;
     padding:30px;
 }
-
 .gallery-mid .row {
     display: flex;
     flex-wrap: wrap;
@@ -318,7 +294,6 @@ html,body{
     flex-wrap: wrap;
     padding: 0 4px;
 }
- 
 .gallery-mid .row .column img {
     margin-left: 30px;
     margin-top: 20px;
@@ -326,7 +301,6 @@ html,body{
     padding: 5px 6px;
     max-width: 30%;
 }
-
 .forma-info{
     width: 100%;
     height: 1000px;
@@ -341,8 +315,7 @@ html,body{
     border: 2px solid white;
     background-color: black;
     margin-top: 20px;
-    border-radius: 20px;
-    
+    border-radius: 20px;   
 }
 #glavnip{
     text-align: center;
@@ -354,15 +327,13 @@ html,body{
     text-align: left;
     margin: 20px 20px;
     color: white;
-    font-weight: bold;
-    
+    font-weight: bold;  
 }
 .input-fields{
     margin: 30px 150px;
     text-align: center;
     display:block;
 }
-
 .input-fields input{
     width: 250px;
     padding: 10px;
@@ -407,7 +378,6 @@ html,body{
     color: white;
     height: 400px;
  }
-
  .text-box .left-box{
     width: 50%;
     text-align: left;
@@ -419,7 +389,6 @@ html,body{
     margin-top: 30px;
     font-size: large;
  }
-
  .textbox{
     background-color: rgb(176, 138, 176);
     height: 350px;
@@ -430,8 +399,6 @@ html,body{
     font-size: large;
     font-weight: bold;
  }
-
-
 .forma-bot .kontakt-info {
     position: absolute;
     height: 100px;
@@ -466,7 +433,6 @@ html,body{
     width: 300px;
     padding: 10px;
 }
-
 .forma-bot a{
     display: inline-block;
     text-align: center;
@@ -478,12 +444,10 @@ html,body{
     padding: 10px 10px;
     border-radius: 5px;
 }
-
 .forma-bot  .mapa-exita iframe{
     width: 70%;
     height: 350px;
-    margin-left: 15%;
-    
+    margin-left: 15%;   
 }
 .dno-stranice{
     width: 100%;
@@ -500,7 +464,6 @@ html,body{
     color: white;
     font-size: 30px;
 }
-
 .dno-stranice .kontakt-ikone .ikone i:hover{
     color: lightblue;
 }
@@ -549,7 +512,6 @@ html,body{
         margin-right: 0px;
         padding: 0px 5px;
         font-size: 14px;
-       
     }
     .about-us .about-slika{
     height: 350px;
@@ -576,11 +538,8 @@ html,body{
         margin-top: 10px;
         padding: 5px;
         display: flex;
-
     }
     .dno-stranice img{
         width: 100px; 
     }
-
 }
-
